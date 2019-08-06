@@ -1,6 +1,23 @@
 # webapp
 
-> Manggu Dashboard
+> Sirus-CMS-Medicine-Web-App
+
+Technology :
+- Vue Js
+- Vuetify
+- Moment 
+- Axios
+- CodeIgniter for Backend
+- etc..
+
+Feature 
+- Create Transaction Order
+- Read Data History Purchasing
+- Delete Item Data History Purchasing
+- Print Receipt
+- Read Product Data
+- Delete Item Product Data
+- Create a new Product Item
 
 ## Build Setup
 
